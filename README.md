@@ -8,8 +8,8 @@ Codes for NUH MRI cervical spine project:
 
 * CUDA 10.2
 * Python 3.8
-* PyTorch 1.8
-* TorchVision 0.82
+* PyTorch 1.7.1
+* TorchVision 0.8.2
 
 ## Framework
 
